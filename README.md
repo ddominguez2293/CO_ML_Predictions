@@ -54,6 +54,7 @@ a.	This script will focus on processing the TSS data and analytics on how the da
 a.	The next steps will be to clean and join the other data types not part of this project, but the same code will bind and join all the data and clean the dates. 
 
 4.	Unity.RMD
+a.	A script that standardizes the time of observation as per the methodology and gets rid of duplicate observations. 
 
 5.	Clouds.ipynb
 a.	Before running this piece of code, it is important that you load a python2 work environment due to depreciated packages in python3 and mount your google drive to the session. The first chunk of code is all the functions that will be used for all the python scripts. It is easier to maintain them all together as some will be reused. The second chunk will connect your python session to the google earth engine  API and must be rerun at the start of individual sessions. The third chunk will extract the cloud scenes for all of the sites and write them to a csv in your local drive.
