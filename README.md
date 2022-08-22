@@ -1,9 +1,13 @@
 # CO_ML_Predictions
-#A repo containing the modified Aquasat framework code create a matched In-situ/remote sensing database to be used for training Machine Learning Algorithms to predict water quality in the Colorado River Basin.
-#Aquasat V1.5 with Machine learning predictions
+
+A repo containing the modified Aquasat framework code create a matched In-situ/remote sensing database to be used for training Machine Learning Algorithms to predict water quality in the Colorado River Basin.
+
 Dissertation title “A Framework for Pairing In-situ Water Quality Measurements with Remote Sensing Imagery: A Case Study of Estimating Total Suspended Sediment Trends in The Upper Colorado River Basin Using Machine Learning Algorithms”
+
 By: Daniel Dominguez
+
 Email contact: ddominguez2293@gmail.com
+
 Code available here:
 University of Glasgow
 MSc candidate for the Sustainable Water Environments Program
